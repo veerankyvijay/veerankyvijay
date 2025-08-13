@@ -11,7 +11,7 @@ I specialize in **Machine Learning, Deep Learning, Data Visualization, and Predi
 - 🧠 Developed a **CNN-based Brain Tumor Detection System** (90% accuracy) using TensorFlow, optimized with GPU/TPU acceleration.
 - 📊 Built **Power BI dashboards** that improved business decision-making by 20% and saved 5+ hours/week of manual work.
 - 📈 Experienced in Python, R, SQL, Power BI, TensorFlow, Scikit-learn, and cloud-based model deployment.
-- 🎓 Pursuing **B.Sc. in Data Science** at P.B. Siddhartha College of Arts & Science.
+- 🎓 Pursued **B.Sc. in Data Science** at P.B. Siddhartha College of Arts & Science.
 
 ---
 
