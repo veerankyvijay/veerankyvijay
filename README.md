@@ -65,7 +65,7 @@ Check out my portfolio for more projects:
 📧 Email: [veerankyvijay@gmail.com](mailto:veerankyvijay@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/Linkedin-VijayKumar](https://linkedin.com/in/Linkedin-VijayKumar)  
 🌐 Portfolio: [personal-portfolio-roan-nine-78.vercel.app](https://personal-portfolio-roan-nine-78.vercel.app/)  
-💻 GitHub: [github.com/your-username](https://github.com/your-username)  
+💻 GitHub: [github.com/veerankyvijay](https://github.com/veerankyvijay)  
 
 ---
 
